@@ -1,0 +1,8 @@
+:root {
+  --black: #151515;
+  --white: #fff;
+
+  --border: #bcbcbc;
+  --text: var(--black);
+  --bg: var(--white);
+}
